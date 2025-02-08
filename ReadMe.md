@@ -59,10 +59,10 @@ C:\Users\灰>conda activate Gradprj
 在输出路径文件夹（这里为./Log）中可以看到批量的生产服装版片。
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/d80c9f7a-5f66-4189-ae48-c03f71247ac6" alt="输出文件夹" width="559" />
-  <p style="font-style: italic; color: #666; font-size: 14px;">输出文件夹：这里是图片的描述</p>
+  <p style="font-style: italic; color: #666; font-size: 14px;">输出文件夹</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/1374f05b-e10f-49aa-9467-1a5072e6f50f" alt="板片文件预览" width="559" />
-  <p style="font-style: italic; color: #666; font-size: 14px;">板片文件预览：这里是图片的描述</p>
+  <p style="font-style: italic; color: #666; font-size: 14px;">板片文件预览</p>
 </div>
