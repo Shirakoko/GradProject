@@ -1,3 +1,4 @@
+# 部署方法
 确保系统已安装Python 3.9和以下依赖库：numpy、scipy、pyyaml >= 6.0、svgwrite、psutil、matplotlib、svgpathtools、cairoSVG、PySimpleGUI (仅限Windows)、wmi (仅限Windows)。若未安装，可使用命令行工具在conda虚拟环境中安装：
 
 ```bash
@@ -56,5 +57,12 @@ C:\Users\灰>conda activate Gradprj
 ```
 
 在输出路径文件夹（这里为./Log）中可以看到批量的生产服装版片。
-![输出文件夹]<img width="559" alt="图片6" src="https://github.com/user-attachments/assets/d80c9f7a-5f66-4189-ae48-c03f71247ac6" />
-![板片文件预览](https://github.com/user-attachments/assets/1374f05b-e10f-49aa-9467-1a5072e6f50f)
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/d80c9f7a-5f66-4189-ae48-c03f71247ac6" alt="输出文件夹" width="559" />
+  <p style="font-style: italic; color: #666; font-size: 14px;">输出文件夹：这里是图片的描述</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/1374f05b-e10f-49aa-9467-1a5072e6f50f" alt="板片文件预览" width="559" />
+  <p style="font-style: italic; color: #666; font-size: 14px;">板片文件预览：这里是图片的描述</p>
+</div>
