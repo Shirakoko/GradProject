@@ -1,0 +1,26 @@
+body: 
+  height: 165 
+  head_l: 25 # nape of the neck to the top -- ok to use some average value  
+  neck_w: 16
+  
+  sholder_w: 38 # unilateral shoulder width
+  armscye_depth: 15 # Nape of the Neck to armscye depth on the back
+  shoulder_incl: 10 # Shoulder inclination, 0° is a right angle shoulder
+
+  arm_pose_angle: 40 # A-pose arm angle
+
+  waist: 80 # Waistline
+  waist_line: 35 # Nape of the Neck to waist (on the back)
+  waist_over_bust_line: 40 # -- measurement + addition for the shoulder # 47
+
+  bust_line: 23  
+  bust: 90 # Upper Bust
+  bust_points: 21 # distance from bust point to centerline
+  underbust: 83 # underbust
+  back_width: 40 # back width
+
+  hips: 107  
+  hips_line: 18 # height from waist to hips
+  bum_points: 18.5
+  crotch_hip_diff: 14 # NOTE vertical projection of the level
+  leg_circ: 64
