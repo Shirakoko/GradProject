@@ -1,4 +1,21 @@
 # 部署方法
+## 环境配置
+
+### 1. 安装 Conda
+如果你还没有安装 Conda，请先下载并安装 [Miniconda](https://docs.conda.io/en/latest/miniconda.html) 或 [Anaconda](https://www.anaconda.com/products/distribution)。
+
+### 2. 创建虚拟环境
+在项目根目录下运行以下命令，基于 `environment.yml` 文件创建虚拟环境：
+
+```bash
+conda env create -f environment.yml
+
+## 3. 激活虚拟环境
+创建完成后，激活虚拟环境：
+
+conda activate garmentcode
+
+
 确保系统已安装Python 3.9和以下依赖库：numpy、scipy、pyyaml >= 6.0、svgwrite、psutil、matplotlib、svgpathtools、cairoSVG、PySimpleGUI (仅限Windows)、wmi (仅限Windows)。若未安装，可使用命令行工具在conda虚拟环境中安装：
 
 ```bash
