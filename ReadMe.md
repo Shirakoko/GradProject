@@ -56,7 +56,5 @@ C:\Users\灰>conda activate Gradprj
 ```
 
 在输出路径文件夹（这里为./Log）中可以看到批量的生产服装版片。
-
-![**输出文件夹**](attachment:de604f02-665e-4dc5-b382-23820e15efc8:图片6.png)
-
-**输出文件夹**
+![输出文件夹]<img width="559" alt="图片6" src="https://github.com/user-attachments/assets/d80c9f7a-5f66-4189-ae48-c03f71247ac6" />
+![板片文件预览](https://github.com/user-attachments/assets/1374f05b-e10f-49aa-9467-1a5072e6f50f)
